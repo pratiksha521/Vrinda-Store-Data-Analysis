@@ -18,6 +18,6 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 +  All charts created using pivot tables merge into one dashboard and apply slicer to make dashboard interactive and dynamic.
 # Dashboard
 
-[Uploading excel dashboard.docx…]()
+![Screenshot (11)](https://github.com/pratiksha521/Vrinda-Store-Data-Analysis/assets/146656170/7fb1ce10-1381-4e69-918e-e27ab28c32fe)
   
   

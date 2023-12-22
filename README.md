@@ -16,8 +16,6 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 + Create additional column like Age Group and Month required for data analysis.
 + Created pivot tables and Charts according to the questions asked.
 +  All charts created using pivot tables merge into one dashboard and apply slicer to make dashboard interactive and dynamic.
-# Project Video link
-[Project video link](https://gemoo.com/tools/upload-video/share/589180620126466048?codeId=DW2XzwGqZ1emg&card=589180615189770240)
 # Dashboard
 
 ![Screenshot (11)](https://github.com/pratiksha521/Vrinda-Store-Data-Analysis/assets/146656170/adf3278d-72f6-42bb-bf0b-01981912f89b)
